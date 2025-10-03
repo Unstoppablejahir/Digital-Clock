@@ -22,3 +22,24 @@ Here’s how the digital clock looks:
 ‣ CSS3 – for styling and layout
 ‣ JavaScript – for dynamic real-time functionality
 
+# 📂 Project Structure
+
+digital-clock/
+│── index.html   # Main HTML file
+│── style.css    # CSS file for styling
+│── script.js    # JavaScript file for clock functionality
+
+# 🔮 Future Enhancements
+
+● Add 12/24-hour toggle option.
+● Add date display (day, month, year).
+● Improve responsiveness for all screen sizes.
+● Add dark/light theme switch.
+
+# 🤝 Contributing
+
+Pull requests are welcome! If you’d like to enhance this project, feel free to fork the repo and submit a PR.
+
+# 📜 License
+
+This project is licensed under the MIT License – feel free to use and modify it.
