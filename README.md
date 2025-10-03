@@ -5,9 +5,13 @@ This project is a simple Digital Clock built using HTML, CSS, and JavaScript. It
 # 📌 Features
 
 • Shows real-time hours, minutes, and seconds.
+<br>
 • Displays AM/PM format.
+<br>
 • Responsive and clean UI design.
+<br>
 • Background image with a modern digital look.
+<br>
 • Auto-updates every second using JavaScript.
 
 # 🖼️ Preview
@@ -19,21 +23,29 @@ Here’s how the digital clock looks:
 # 💻 Technologies Used
 
 ‣ HTML5 – for structure
+<br>
 ‣ CSS3 – for styling and layout
+<br>
 ‣ JavaScript – for dynamic real-time functionality
 
 # 📂 Project Structure
 
 digital-clock/
+<br>
 │── index.html   # Main HTML file
+<br>
 │── style.css    # CSS file for styling
+<br>
 │── script.js    # JavaScript file for clock functionality
 
 # 🔮 Future Enhancements
 
 ● Add 12/24-hour toggle option.
+<br>
 ● Add date display (day, month, year).
+<br>
 ● Improve responsiveness for all screen sizes.
+<br>
 ● Add dark/light theme switch.
 
 # 🤝 Contributing
